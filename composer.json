@@ -1,0 +1,8 @@
+{
+    "name": "roman/test-roman",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    },
+    "license": "GNU GPLv2",
+    "require": {}
+}
